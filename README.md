@@ -20,9 +20,9 @@ A comprehensive, full-stack **Smart Agriculture & E-Commerce Web Application** d
 | :---: | :---: |
 | ![Shop Crops](screenshots/03_shop_crops.png) | ![Seed Store](screenshots/04_seed_store.png) |
 
-| 🧪 Fertilizer & Chemical Store | 🔐 Authentication & Roles |
+| 🧪 Fertilizer & Chemical Store | 💬 AgriAI Assistant Chatbot |
 | :---: | :---: |
-| ![Chemical Store](screenshots/05_chemical_store.png) | ![Login Portal](screenshots/10_login.png) |
+| ![Chemical Store](screenshots/05_chemical_store.png) | ![AgriAI Chatbot](screenshots/11_ai_chatbot.png) |
 
 | 📊 Admin Dashboard & Analytics | 📦 Admin Orders & Management |
 | :---: | :---: |
@@ -31,6 +31,10 @@ A comprehensive, full-stack **Smart Agriculture & E-Commerce Web Application** d
 | 🛍️ Buyer Orders & Tracking | 🛒 Buyer Cart & Checkout |
 | :---: | :---: |
 | ![Buyer Orders](screenshots/08_buyer_orders.png) | ![Buyer Cart](screenshots/09_buyer_cart.png) |
+
+| 🔐 Multi-Role Authentication Portal |
+| :---: |
+| ![Login Portal](screenshots/10_login.png) |
 
 ---
 
