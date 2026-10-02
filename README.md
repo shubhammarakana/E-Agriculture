@@ -20,17 +20,17 @@ A comprehensive, full-stack **Smart Agriculture & E-Commerce Web Application** d
 | :---: | :---: |
 | ![Shop Crops](screenshots/03_shop_crops.png) | ![Seed Store](screenshots/04_seed_store.png) |
 
-| 🧪 Fertilizer & Chemical Store | 🌦️ Live Weather Forecast |
+| 🧪 Fertilizer & Chemical Store | 🔐 Authentication & Roles |
 | :---: | :---: |
-| ![Chemical Store](screenshots/05_chemical_store.png) | ![Weather](screenshots/06_weather_forecast.png) |
+| ![Chemical Store](screenshots/05_chemical_store.png) | ![Login Portal](screenshots/10_login.png) |
 
-| 📈 Live Market Trends | 🗓️ Seasonal Guide |
+| 📊 Admin Dashboard & Analytics | 📦 Admin Orders & Management |
 | :---: | :---: |
-| ![Market Trends](screenshots/07_market_trends.png) | ![Seasonal Guide](screenshots/08_seasonal_guide.png) |
+| ![Admin Dashboard](screenshots/06_admin_dashboard.png) | ![Admin Orders](screenshots/07_admin_orders.png) |
 
-| ℹ️ About Platform | 🔐 Authentication & Roles |
+| 🛍️ Buyer Orders & Tracking | 🛒 Buyer Cart & Checkout |
 | :---: | :---: |
-| ![About Us](screenshots/09_about_us.png) | ![Login Portal](screenshots/10_login.png) |
+| ![Buyer Orders](screenshots/08_buyer_orders.png) | ![Buyer Cart](screenshots/09_buyer_cart.png) |
 
 ---
 
