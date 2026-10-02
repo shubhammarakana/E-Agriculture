@@ -1,0 +1,1371 @@
+[
+    {
+        "id": 1,
+        "category": "General Information",
+        "question": "What is E-Agriculture?",
+        "answer": "E-Agriculture is an online platform that provides farmers with agricultural information, products, and services digitally.",
+        "keywords": [
+            "what is e-agriculture",
+            "what is e agriculture",
+            "e-agriculture",
+            "e agriculture",
+            "about e-agriculture",
+            "about the platform",
+            "what is this website",
+            "what is this platform"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Account & Registration",
+        "question": "How can I register on the website?",
+        "answer": "You can register by entering your basic details such as name, mobile number/email, address, and password.",
+        "keywords": [
+            "how can i register on the website",
+            "how can i register",
+            "how to register",
+            "register on the website",
+            "create an account",
+            "create account",
+            "sign up",
+            "signup",
+            "registration"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Account & Login",
+        "question": "Do I need to log in to use the system?",
+        "answer": "Some basic information may be available without login, but login is required for features such as ordering products, managing your profile, and checking orders.",
+        "keywords": [
+            "do i need to log in to use the system",
+            "do i need to log in",
+            "do i need to login",
+            "is login required",
+            "need to log in",
+            "need login",
+            "log in required",
+            "login to use"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Product Search & Browsing",
+        "question": "How can I find a particular agricultural product?",
+        "answer": "You can use the search option or select a suitable product category to find the required product.",
+        "keywords": [
+            "how can i find a particular agricultural product",
+            "how can i find a product",
+            "find a particular product",
+            "find product",
+            "search product",
+            "how to find product",
+            "find crops",
+            "find seeds",
+            "find chemicals"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Pricing & Details",
+        "question": "Can I see the product price before buying?",
+        "answer": "Yes, the product price and other available details are displayed before you add the product to the cart.",
+        "keywords": [
+            "can i see the product price before buying",
+            "can i see product price",
+            "see product price before buying",
+            "product price before buying",
+            "see price before buy",
+            "check price before buying",
+            "view price"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Ordering & Purchase",
+        "question": "How can I buy a product?",
+        "answer": "Select the product, choose the required quantity, add it to the cart, enter delivery details, and confirm the order.",
+        "keywords": [
+            "how can i buy a product",
+            "how to buy a product",
+            "how can i buy",
+            "how to buy",
+            "how to purchase",
+            "purchase product",
+            "buy product",
+            "how to order",
+            "place an order"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Order Management",
+        "question": "Can I check my order status?",
+        "answer": "Yes. After logging in, you can check your orders and their current status from the My Orders section.",
+        "keywords": [
+            "can i check my order status",
+            "check my order status",
+            "check order status",
+            "track my order",
+            "track order",
+            "order status",
+            "my orders status",
+            "where is my order"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Order Management",
+        "question": "Can I cancel my order?",
+        "answer": "Yes, if the cancellation option is available and the order has not reached the processing or delivery stage.",
+        "keywords": [
+            "can i cancel my order",
+            "cancel my order",
+            "how to cancel order",
+            "cancel order",
+            "order cancellation",
+            "cancellation"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Customer Support & Help",
+        "question": "How can I contact the admin or get help?",
+        "answer": "You can use the contact/help section provided on the website to communicate with the administrator.",
+        "keywords": [
+            "how can i contact the admin or get help",
+            "how can i contact the admin",
+            "contact the admin",
+            "get help",
+            "contact admin",
+            "contact administrator",
+            "help section",
+            "contact support",
+            "customer support"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Security & Privacy",
+        "question": "Is my personal information safe?",
+        "answer": "Yes. The system uses authentication and access controls to protect customer information.",
+        "keywords": [
+            "is my personal information safe",
+            "is personal information safe",
+            "my personal information safe",
+            "is data safe",
+            "is my data safe",
+            "privacy",
+            "security of data",
+            "is it secure"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Profile & Account",
+        "question": "Can I update my address?",
+        "answer": "Yes, you can update your address and other editable profile information from your account.",
+        "keywords": [
+            "can i update my address",
+            "update my address",
+            "update address",
+            "change address",
+            "edit address",
+            "modify address",
+            "change my delivery address"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Account & Login",
+        "question": "What if I forget my password?",
+        "answer": "You can use the Forgot Password option to reset your password, if that feature is implemented in the system.",
+        "keywords": [
+            "what if i forget my password",
+            "forget my password",
+            "forgot password",
+            "reset password",
+            "reset my password",
+            "lost password",
+            "change password"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Feedback & Reviews",
+        "question": "Can I give feedback about a product or service?",
+        "answer": "Yes, if the feedback feature is available, you can submit your feedback or review.",
+        "keywords": [
+            "can i give feedback about a product or service",
+            "can i give feedback",
+            "give feedback about a product",
+            "give feedback",
+            "submit feedback",
+            "write review",
+            "submit review",
+            "leave feedback"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "General Information",
+        "question": "What are the benefits of using E-Agriculture?",
+        "answer": "It saves time, provides agricultural information in one place, makes product purchasing easier, and helps farmers use digital services.",
+        "keywords": [
+            "what are the benefits of using e-agriculture",
+            "benefits of using e-agriculture",
+            "benefits of e-agriculture",
+            "advantages of e-agriculture",
+            "why use e-agriculture",
+            "benefits of platform",
+            "advantages of platform"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Order Support",
+        "question": "What should I do if I have a problem with my order?",
+        "answer": "You can check the order details and contact the admin/support team through the available contact option.",
+        "keywords": [
+            "what should i do if i have a problem with my order",
+            "problem with my order",
+            "issue with my order",
+            "order problem",
+            "order issue",
+            "wrong item received",
+            "damaged product"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Crop Management Support",
+        "question": "How do I select the right crop for my region?",
+        "answer": "Choose crops based on soil type, climate, water availability, and market demand.",
+        "keywords": [
+            "select",
+            "right crop",
+            "region",
+            "choose crops"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Crop Management Support",
+        "question": "When is the best time to sow wheat?",
+        "answer": "Wheat is usually sown during October–November (Rabi season).",
+        "keywords": [
+            "best time",
+            "sow wheat",
+            "october",
+            "november",
+            "rabi"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Crop Management Support",
+        "question": "What is the ideal spacing for cotton plants?",
+        "answer": "Generally 90 cm × 45 cm spacing is recommended.",
+        "keywords": [
+            "ideal spacing",
+            "cotton plants",
+            "90 cm",
+            "45 cm"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Crop Management Support",
+        "question": "How much water does rice require?",
+        "answer": "Rice requires standing water during early growth but controlled irrigation later.",
+        "keywords": [
+            "water",
+            "rice",
+            "require",
+            "irrigation"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Crop Management Support",
+        "question": "What fertilizer is best for maize?",
+        "answer": "Balanced NPK fertilizer based on soil test results.",
+        "keywords": [
+            "fertilizer",
+            "best",
+            "maize",
+            "npk"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Crop Management Support",
+        "question": "How can I control weeds naturally?",
+        "answer": "Use mulching, crop rotation, and manual weeding.",
+        "keywords": [
+            "control weeds",
+            "naturally",
+            "mulching",
+            "crop rotation"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Crop Management Support",
+        "question": "What are signs of nutrient deficiency in crops?",
+        "answer": "Yellow leaves, stunted growth, poor flowering.",
+        "keywords": [
+            "signs",
+            "nutrient deficiency",
+            "yellow leaves",
+            "stunted growth"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Crop Management Support",
+        "question": "How can I increase crop yield?",
+        "answer": "Use quality seeds, proper irrigation, fertilizers, and pest control.",
+        "keywords": [
+            "increase",
+            "crop yield",
+            "quality seeds",
+            "irrigation"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Crop Management Support",
+        "question": "What is drip irrigation?",
+        "answer": "A water-saving irrigation system delivering water directly to roots.",
+        "keywords": [
+            "drip irrigation",
+            "water-saving",
+            "roots"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Crop Management Support",
+        "question": "How do I prevent fungal diseases?",
+        "answer": "Use resistant varieties and apply recommended fungicides.",
+        "keywords": [
+            "prevent",
+            "fungal diseases",
+            "fungicides"
+        ]
+    },
+    {
+        "id": 26,
+        "category": "Soil Health Support",
+        "question": "How often should I test my soil?",
+        "answer": "Every 2–3 years.",
+        "keywords": [
+            "often",
+            "test",
+            "soil"
+        ]
+    },
+    {
+        "id": 27,
+        "category": "Soil Health Support",
+        "question": "Where can I get soil testing done?",
+        "answer": "At government soil testing labs or agriculture centers.",
+        "keywords": [
+            "where",
+            "soil testing",
+            "labs"
+        ]
+    },
+    {
+        "id": 28,
+        "category": "Soil Health Support",
+        "question": "What is soil pH?",
+        "answer": "It measures soil acidity or alkalinity.",
+        "keywords": [
+            "soil pH",
+            "acidity",
+            "alkalinity"
+        ]
+    },
+    {
+        "id": 29,
+        "category": "Soil Health Support",
+        "question": "What is the ideal soil pH for most crops?",
+        "answer": "Between 6.0 and 7.5.",
+        "keywords": [
+            "ideal",
+            "soil pH",
+            "6.0",
+            "7.5"
+        ]
+    },
+    {
+        "id": 30,
+        "category": "Soil Health Support",
+        "question": "How can I improve soil fertility?",
+        "answer": "Add compost, organic manure, and balanced fertilizers.",
+        "keywords": [
+            "improve",
+            "soil fertility",
+            "compost",
+            "manure"
+        ]
+    },
+    {
+        "id": 31,
+        "category": "Soil Health Support",
+        "question": "What is green manure?",
+        "answer": "Crops grown and mixed into soil to improve fertility.",
+        "keywords": [
+            "green manure",
+            "fertility"
+        ]
+    },
+    {
+        "id": 32,
+        "category": "Soil Health Support",
+        "question": "How can I reduce soil erosion?",
+        "answer": "Plant cover crops and build bunds.",
+        "keywords": [
+            "reduce",
+            "soil erosion",
+            "cover crops",
+            "bunds"
+        ]
+    },
+    {
+        "id": 33,
+        "category": "Soil Health Support",
+        "question": "What is organic farming?",
+        "answer": "Farming without synthetic fertilizers and pesticides.",
+        "keywords": [
+            "organic farming",
+            "synthetic",
+            "pesticides"
+        ]
+    },
+    {
+        "id": 34,
+        "category": "Soil Health Support",
+        "question": "How does crop rotation improve soil?",
+        "answer": "It prevents nutrient depletion and pest buildup.",
+        "keywords": [
+            "crop rotation",
+            "improve",
+            "soil"
+        ]
+    },
+    {
+        "id": 35,
+        "category": "Soil Health Support",
+        "question": "What is vermicomposting?",
+        "answer": "Composting using earthworms.",
+        "keywords": [
+            "vermicomposting",
+            "earthworms"
+        ]
+    },
+    {
+        "id": 36,
+        "category": "Pest & Disease Support",
+        "question": "What is Integrated Pest Management (IPM)?",
+        "answer": "Eco-friendly pest control combining biological and chemical methods.",
+        "keywords": [
+            "Integrated Pest Management",
+            "IPM",
+            "eco-friendly"
+        ]
+    },
+    {
+        "id": 37,
+        "category": "Pest & Disease Support",
+        "question": "How can I identify pest damage?",
+        "answer": "Look for holes in leaves, discoloration, and weak plants.",
+        "keywords": [
+            "identify",
+            "pest damage",
+            "holes"
+        ]
+    },
+    {
+        "id": 38,
+        "category": "Pest & Disease Support",
+        "question": "What is biological pest control?",
+        "answer": "Using natural predators to control pests.",
+        "keywords": [
+            "biological pest control",
+            "natural predators"
+        ]
+    },
+    {
+        "id": 39,
+        "category": "Pest & Disease Support",
+        "question": "Are pesticides harmful?",
+        "answer": "Improper use can harm humans and the environment.",
+        "keywords": [
+            "pesticides",
+            "harmful"
+        ]
+    },
+    {
+        "id": 40,
+        "category": "Pest & Disease Support",
+        "question": "How often should pesticides be sprayed?",
+        "answer": "Only when pest levels exceed economic threshold levels.",
+        "keywords": [
+            "often",
+            "pesticides",
+            "sprayed"
+        ]
+    },
+    {
+        "id": 41,
+        "category": "Irrigation & Water Management",
+        "question": "How much water does sugarcane need?",
+        "answer": "Regular irrigation every 10–15 days depending on soil.",
+        "keywords": [
+            "water",
+            "sugarcane",
+            "need"
+        ]
+    },
+    {
+        "id": 42,
+        "category": "Irrigation & Water Management",
+        "question": "What is sprinkler irrigation?",
+        "answer": "Water sprayed over crops like rainfall.",
+        "keywords": [
+            "sprinkler irrigation",
+            "sprayed",
+            "rainfall"
+        ]
+    },
+    {
+        "id": 43,
+        "category": "Irrigation & Water Management",
+        "question": "How to conserve water in farming?",
+        "answer": "Use drip irrigation and rainwater harvesting.",
+        "keywords": [
+            "conserve water",
+            "drip irrigation",
+            "rainwater"
+        ]
+    },
+    {
+        "id": 44,
+        "category": "Irrigation & Water Management",
+        "question": "What is rainfed farming?",
+        "answer": "Farming dependent only on rainfall.",
+        "keywords": [
+            "rainfed farming",
+            "rainfall"
+        ]
+    },
+    {
+        "id": 45,
+        "category": "Irrigation & Water Management",
+        "question": "How can I prevent waterlogging?",
+        "answer": "Ensure proper drainage systems.",
+        "keywords": [
+            "prevent",
+            "waterlogging",
+            "drainage"
+        ]
+    },
+    {
+        "id": 46,
+        "category": "Government Schemes & Subsidies",
+        "question": "What is PM-KISAN scheme?",
+        "answer": "Financial support scheme by the Government of India providing income support to farmers.",
+        "keywords": [
+            "PM-KISAN",
+            "scheme",
+            "financial support"
+        ]
+    },
+    {
+        "id": 47,
+        "category": "Government Schemes & Subsidies",
+        "question": "What is Pradhan Mantri Fasal Bima Yojana?",
+        "answer": "Crop insurance scheme by Government of India to protect against crop loss.",
+        "keywords": [
+            "PMFBY",
+            "Pradhan Mantri Fasal Bima Yojana",
+            "insurance"
+        ]
+    },
+    {
+        "id": 48,
+        "category": "Government Schemes & Subsidies",
+        "question": "How can I apply for a farming subsidy?",
+        "answer": "Visit the agriculture department office or official portal.",
+        "keywords": [
+            "apply",
+            "farming subsidy",
+            "portal"
+        ]
+    },
+    {
+        "id": 49,
+        "category": "Government Schemes & Subsidies",
+        "question": "Is there subsidy for drip irrigation?",
+        "answer": "Yes, under micro-irrigation schemes.",
+        "keywords": [
+            "subsidy",
+            "drip irrigation",
+            "micro-irrigation"
+        ]
+    },
+    {
+        "id": 50,
+        "category": "Government Schemes & Subsidies",
+        "question": "What documents are required for schemes?",
+        "answer": "Aadhaar card, land records, bank details.",
+        "keywords": [
+            "documents",
+            "aadhaar",
+            "land records"
+        ]
+    },
+    {
+        "id": 51,
+        "category": "Market & Pricing Support",
+        "question": "How can I check today’s crop prices?",
+        "answer": "Through mandis or online portals like e-NAM.",
+        "keywords": [
+            "check",
+            "crop prices",
+            "mandis",
+            "e-NAM"
+        ]
+    },
+    {
+        "id": 52,
+        "category": "Market & Pricing Support",
+        "question": "What is Minimum Support Price (MSP)?",
+        "answer": "A guaranteed price set by the Government of India.",
+        "keywords": [
+            "Minimum Support Price",
+            "MSP"
+        ]
+    },
+    {
+        "id": 53,
+        "category": "Market & Pricing Support",
+        "question": "When should I sell my crops?",
+        "answer": "When market demand and prices are favorable.",
+        "keywords": [
+            "when",
+            "sell",
+            "crops"
+        ]
+    },
+    {
+        "id": 54,
+        "category": "Market & Pricing Support",
+        "question": "What affects crop prices?",
+        "answer": "Supply, demand, weather, exports.",
+        "keywords": [
+            "affects",
+            "crop prices",
+            "supply",
+            "demand"
+        ]
+    },
+    {
+        "id": 55,
+        "category": "Market & Pricing Support",
+        "question": "What is contract farming?",
+        "answer": "Agreement between farmer and buyer at fixed price.",
+        "keywords": [
+            "contract farming",
+            "agreement"
+        ]
+    },
+    {
+        "id": 56,
+        "category": "Equipment & Machinery",
+        "question": "How can I get tractor subsidy?",
+        "answer": "Apply through state agriculture schemes.",
+        "keywords": [
+            "tractor",
+            "subsidy",
+            "apply"
+        ]
+    },
+    {
+        "id": 57,
+        "category": "Equipment & Machinery",
+        "question": "What is a seed drill?",
+        "answer": "Machine used for sowing seeds evenly.",
+        "keywords": [
+            "seed drill",
+            "machine",
+            "sowing"
+        ]
+    },
+    {
+        "id": 58,
+        "category": "Equipment & Machinery",
+        "question": "How to maintain farm machinery?",
+        "answer": "Regular cleaning and servicing.",
+        "keywords": [
+            "maintain",
+            "farm machinery",
+            "cleaning"
+        ]
+    },
+    {
+        "id": 59,
+        "category": "Equipment & Machinery",
+        "question": "What is power tiller used for?",
+        "answer": "Land preparation.",
+        "keywords": [
+            "power tiller",
+            "land preparation"
+        ]
+    },
+    {
+        "id": 60,
+        "category": "Equipment & Machinery",
+        "question": "Is there government support for farm tools?",
+        "answer": "Yes, subsidy programs are available.",
+        "keywords": [
+            "government support",
+            "farm tools",
+            "subsidy"
+        ]
+    },
+    {
+        "id": 61,
+        "category": "Organic & Sustainable Farming",
+        "question": "What is natural farming?",
+        "answer": "Chemical-free farming using local inputs.",
+        "keywords": [
+            "natural farming",
+            "chemical-free"
+        ]
+    },
+    {
+        "id": 62,
+        "category": "Organic & Sustainable Farming",
+        "question": "What is crop diversification?",
+        "answer": "Growing multiple crops instead of one.",
+        "keywords": [
+            "crop diversification",
+            "multiple crops"
+        ]
+    },
+    {
+        "id": 63,
+        "category": "Organic & Sustainable Farming",
+        "question": "How to prepare organic pesticide?",
+        "answer": "Use neem extract or cow-based formulations.",
+        "keywords": [
+            "prepare",
+            "organic pesticide",
+            "neem"
+        ]
+    },
+    {
+        "id": 64,
+        "category": "Organic & Sustainable Farming",
+        "question": "What is mulching?",
+        "answer": "Covering soil with organic material.",
+        "keywords": [
+            "mulching",
+            "covering soil"
+        ]
+    },
+    {
+        "id": 65,
+        "category": "Organic & Sustainable Farming",
+        "question": "Why is biodiversity important in farming?",
+        "answer": "It improves resilience and productivity.",
+        "keywords": [
+            "biodiversity",
+            "important",
+            "resilience"
+        ]
+    },
+    {
+        "id": 66,
+        "category": "General Customer Support",
+        "question": "How can I contact agriculture support helpline?",
+        "answer": "Call your state agriculture helpline number.",
+        "keywords": [
+            "contact",
+            "helpline",
+            "support"
+        ]
+    },
+    {
+        "id": 67,
+        "category": "General Customer Support",
+        "question": "Can I get expert advice online?",
+        "answer": "Yes, through agriculture portals and apps.",
+        "keywords": [
+            "expert advice",
+            "online",
+            "portals"
+        ]
+    },
+    {
+        "id": 68,
+        "category": "General Customer Support",
+        "question": "How do I register my farm details?",
+        "answer": "Visit local agriculture office.",
+        "keywords": [
+            "register",
+            "farm details",
+            "office"
+        ]
+    },
+    {
+        "id": 69,
+        "category": "General Customer Support",
+        "question": "How do I update bank details for schemes?",
+        "answer": "Through official scheme portal.",
+        "keywords": [
+            "update",
+            "bank details",
+            "portal"
+        ]
+    },
+    {
+        "id": 70,
+        "category": "General Customer Support",
+        "question": "What if my subsidy is delayed?",
+        "answer": "Contact the agriculture department office.",
+        "keywords": [
+            "subsidy",
+            "delayed",
+            "contact"
+        ]
+    },
+    {
+        "id": 71,
+        "category": "Seasonal Farming",
+        "question": "What crops grow in Kharif season?",
+        "answer": "Rice, maize, cotton.",
+        "keywords": [
+            "Kharif",
+            "crops",
+            "rice",
+            "maize",
+            "cotton"
+        ]
+    },
+    {
+        "id": 72,
+        "category": "Seasonal Farming",
+        "question": "What crops grow in Rabi season?",
+        "answer": "Wheat, mustard, gram.",
+        "keywords": [
+            "Rabi",
+            "crops",
+            "wheat",
+            "mustard",
+            "gram"
+        ]
+    },
+    {
+        "id": 73,
+        "category": "Seasonal Farming",
+        "question": "What is Zaid season?",
+        "answer": "Short summer cropping season.",
+        "keywords": [
+            "Zaid",
+            "season",
+            "summer"
+        ]
+    },
+    {
+        "id": 74,
+        "category": "Seasonal Farming",
+        "question": "How to protect crops from frost?",
+        "answer": "Use light irrigation and cover crops.",
+        "keywords": [
+            "protect",
+            "frost",
+            "irrigation"
+        ]
+    },
+    {
+        "id": 75,
+        "category": "Seasonal Farming",
+        "question": "How to prepare land before monsoon?",
+        "answer": "Deep ploughing and leveling.",
+        "keywords": [
+            "prepare land",
+            "monsoon",
+            "ploughing"
+        ]
+    },
+    {
+        "id": 76,
+        "category": "Climate & Weather Support",
+        "question": "How does climate change affect farming?",
+        "answer": "Irregular rainfall and temperature stress.",
+        "keywords": [
+            "climate change",
+            "rainfall",
+            "temperature stress"
+        ]
+    },
+    {
+        "id": 77,
+        "category": "Climate & Weather Support",
+        "question": "How to protect crops from drought?",
+        "answer": "Use drought-resistant varieties.",
+        "keywords": [
+            "protect",
+            "drought",
+            "resistant"
+        ]
+    },
+    {
+        "id": 78,
+        "category": "Climate & Weather Support",
+        "question": "What is weather-based crop advisory?",
+        "answer": "Guidance based on forecast data.",
+        "keywords": [
+            "weather-based",
+            "crop advisory",
+            "forecast"
+        ]
+    },
+    {
+        "id": 79,
+        "category": "Climate & Weather Support",
+        "question": "How to reduce heat stress in crops?",
+        "answer": "Proper irrigation and shade.",
+        "keywords": [
+            "reduce",
+            "heat stress",
+            "irrigation",
+            "shade"
+        ]
+    },
+    {
+        "id": 80,
+        "category": "Climate & Weather Support",
+        "question": "Where can I check weather updates?",
+        "answer": "Through agriculture apps and IMD forecasts.",
+        "keywords": [
+            "check",
+            "weather updates",
+            "IMD"
+        ]
+    },
+    {
+        "id": 81,
+        "category": "Seed & Nursery Support",
+        "question": "How to select certified seeds?",
+        "answer": "Buy from authorized dealers.",
+        "keywords": [
+            "select",
+            "certified seeds",
+            "dealers"
+        ]
+    },
+    {
+        "id": 82,
+        "category": "Seed & Nursery Support",
+        "question": "What is seed treatment?",
+        "answer": "Treating seeds before sowing to prevent disease.",
+        "keywords": [
+            "seed treatment",
+            "prevent disease"
+        ]
+    },
+    {
+        "id": 83,
+        "category": "Seed & Nursery Support",
+        "question": "How to store seeds safely?",
+        "answer": "Keep in cool, dry place.",
+        "keywords": [
+            "store seeds",
+            "safely",
+            "cool",
+            "dry"
+        ]
+    },
+    {
+        "id": 84,
+        "category": "Seed & Nursery Support",
+        "question": "What is hybrid seed?",
+        "answer": "Seed developed by cross-breeding for higher yield.",
+        "keywords": [
+            "hybrid seed",
+            "cross-breeding",
+            "yield"
+        ]
+    },
+    {
+        "id": 85,
+        "category": "Seed & Nursery Support",
+        "question": "Are hybrid seeds reusable?",
+        "answer": "No, yield reduces in next generation.",
+        "keywords": [
+            "hybrid seeds",
+            "reusable",
+            "yield"
+        ]
+    },
+    {
+        "id": 86,
+        "category": "Financial & Loan Support",
+        "question": "How can I apply for a crop loan?",
+        "answer": "Through banks under KCC scheme.",
+        "keywords": [
+            "apply",
+            "crop loan",
+            "KCC"
+        ]
+    },
+    {
+        "id": 87,
+        "category": "Financial & Loan Support",
+        "question": "What is Kisan Credit Card?",
+        "answer": "Loan facility for farmers.",
+        "keywords": [
+            "Kisan Credit Card",
+            "KCC",
+            "loan"
+        ]
+    },
+    {
+        "id": 88,
+        "category": "Financial & Loan Support",
+        "question": "Is crop insurance mandatory?",
+        "answer": "Optional but recommended.",
+        "keywords": [
+            "crop insurance",
+            "mandatory",
+            "optional"
+        ]
+    },
+    {
+        "id": 89,
+        "category": "Financial & Loan Support",
+        "question": "How to repay agricultural loan?",
+        "answer": "Through bank installments.",
+        "keywords": [
+            "repay",
+            "agricultural loan",
+            "installments"
+        ]
+    },
+    {
+        "id": 90,
+        "category": "Financial & Loan Support",
+        "question": "What if my crop fails?",
+        "answer": "Claim insurance under PMFBY.",
+        "keywords": [
+            "crop fails",
+            "insurance",
+            "PMFBY"
+        ]
+    },
+    {
+        "id": 91,
+        "category": "Post-Harvest Support",
+        "question": "How to store grains safely?",
+        "answer": "Use dry storage and pest control methods.",
+        "keywords": [
+            "store grains",
+            "safely",
+            "dry storage"
+        ]
+    },
+    {
+        "id": 92,
+        "category": "Post-Harvest Support",
+        "question": "What is cold storage?",
+        "answer": "Temperature-controlled storage facility.",
+        "keywords": [
+            "cold storage",
+            "temperature-controlled"
+        ]
+    },
+    {
+        "id": 93,
+        "category": "Post-Harvest Support",
+        "question": "How to reduce post-harvest loss?",
+        "answer": "Proper packaging and transport.",
+        "keywords": [
+            "reduce",
+            "post-harvest loss",
+            "packaging"
+        ]
+    },
+    {
+        "id": 94,
+        "category": "Post-Harvest Support",
+        "question": "What is grading of produce?",
+        "answer": "Sorting based on quality.",
+        "keywords": [
+            "grading",
+            "produce",
+            "quality"
+        ]
+    },
+    {
+        "id": 95,
+        "category": "Post-Harvest Support",
+        "question": "Why is packaging important?",
+        "answer": "Prevents damage and improves price.",
+        "keywords": [
+            "packaging",
+            "important",
+            "damage",
+            "price"
+        ]
+    },
+    {
+        "id": 96,
+        "category": "Advanced Farming Support",
+        "question": "What is precision farming?",
+        "answer": "Technology-based farming using data.",
+        "keywords": [
+            "precision farming",
+            "technology",
+            "data"
+        ]
+    },
+    {
+        "id": 97,
+        "category": "Advanced Farming Support",
+        "question": "What is hydroponics?",
+        "answer": "Growing plants without soil.",
+        "keywords": [
+            "hydroponics",
+            "without soil"
+        ]
+    },
+    {
+        "id": 98,
+        "category": "Advanced Farming Support",
+        "question": "What is greenhouse farming?",
+        "answer": "Growing crops in controlled environment.",
+        "keywords": [
+            "greenhouse farming",
+            "controlled environment"
+        ]
+    },
+    {
+        "id": 99,
+        "category": "Advanced Farming Support",
+        "question": "What is smart farming?",
+        "answer": "Use of IoT and sensors in agriculture.",
+        "keywords": [
+            "smart farming",
+            "IoT",
+            "sensors"
+        ]
+    },
+    {
+        "id": 100,
+        "category": "Advanced Farming Support",
+        "question": "What is drone farming?",
+        "answer": "Using drones for spraying and monitoring.",
+        "keywords": [
+            "drone farming",
+            "drones",
+            "spraying"
+        ]
+    },
+    {
+        "id": 101,
+        "category": "Complaint & Helpdesk",
+        "question": "How do I file a complaint about scheme payment?",
+        "answer": "Through official portal or agriculture office.",
+        "keywords": [
+            "file",
+            "complaint",
+            "scheme payment"
+        ]
+    },
+    {
+        "id": 102,
+        "category": "Complaint & Helpdesk",
+        "question": "What if I receive damaged seeds?",
+        "answer": "Contact supplier immediately.",
+        "keywords": [
+            "damaged seeds",
+            "contact supplier"
+        ]
+    },
+    {
+        "id": 103,
+        "category": "Complaint & Helpdesk",
+        "question": "How do I report pest outbreak?",
+        "answer": "Inform agriculture department.",
+        "keywords": [
+            "report",
+            "pest outbreak",
+            "inform"
+        ]
+    },
+    {
+        "id": 104,
+        "category": "Complaint & Helpdesk",
+        "question": "Can I get refund for faulty equipment?",
+        "answer": "Depends on seller’s policy.",
+        "keywords": [
+            "refund",
+            "faulty equipment",
+            "policy"
+        ]
+    },
+    {
+        "id": 105,
+        "category": "Complaint & Helpdesk",
+        "question": "Where can I get expert consultation?",
+        "answer": "Krishi Vigyan Kendra (KVK).",
+        "keywords": [
+            "expert consultation",
+            "KVK",
+            "Krishi Vigyan Kendra"
+        ]
+    },
+    {
+        "id": 106,
+        "category": "Digital Agriculture Support",
+        "question": "What is e-NAM?",
+        "answer": "Online trading platform for agricultural commodities.",
+        "keywords": [
+            "e-NAM",
+            "trading platform",
+            "commodities"
+        ]
+    },
+    {
+        "id": 107,
+        "category": "Digital Agriculture Support",
+        "question": "Can I sell crops online?",
+        "answer": "Yes, through e-market platforms.",
+        "keywords": [
+            "sell crops",
+            "online",
+            "e-market"
+        ]
+    },
+    {
+        "id": 108,
+        "category": "Digital Agriculture Support",
+        "question": "How do I track subsidy status?",
+        "answer": "Through scheme portal.",
+        "keywords": [
+            "track",
+            "subsidy status",
+            "portal"
+        ]
+    },
+    {
+        "id": 109,
+        "category": "Digital Agriculture Support",
+        "question": "What documents are needed for online registration?",
+        "answer": "Aadhaar, land records, bank account.",
+        "keywords": [
+            "documents",
+            "online registration",
+            "aadhaar"
+        ]
+    },
+    {
+        "id": 110,
+        "category": "Digital Agriculture Support",
+        "question": "Is digital payment safe for farmers?",
+        "answer": "Yes, if done through secure platforms.",
+        "keywords": [
+            "digital payment",
+            "safe",
+            "farmers"
+        ]
+    },
+    {
+        "id": 111,
+        "category": "🌟 Miscellaneous Support",
+        "question": "What is farm mechanization?",
+        "answer": "Use of machines to increase efficiency.",
+        "keywords": [
+            "farm mechanization",
+            "machines",
+            "efficiency"
+        ]
+    },
+    {
+        "id": 112,
+        "category": "🌟 Miscellaneous Support",
+        "question": "How to reduce farming cost?",
+        "answer": "Use efficient inputs and government support.",
+        "keywords": [
+            "reduce",
+            "farming cost",
+            "efficiency"
+        ]
+    },
+    {
+        "id": 113,
+        "category": "🌟 Miscellaneous Support",
+        "question": "What is value addition in farming?",
+        "answer": "Processing raw produce to increase profit.",
+        "keywords": [
+            "value addition",
+            "processing",
+            "profit"
+        ]
+    },
+    {
+        "id": 114,
+        "category": "🌟 Miscellaneous Support",
+        "question": "How can I join a Farmer Producer Organization (FPO)?",
+        "answer": "Register with local FPO office.",
+        "keywords": [
+            "join",
+            "FPO",
+            "Farmer Producer Organization"
+        ]
+    },
+    {
+        "id": 115,
+        "category": "🌟 Miscellaneous Support",
+        "question": "Where can I get continuous farming updates?",
+        "answer": "From agriculture department websites and mobile apps.",
+        "keywords": [
+            "continuous",
+            "farming updates",
+            "websites",
+            "apps"
+        ]
+    },
+    {
+        "id": 116,
+        "category": "💳 Payment & Transaction Support",
+        "question": "What payment methods are accepted?",
+        "answer": "UPI, debit cards, credit cards, and net banking.",
+        "keywords": [
+            "payment",
+            "UPI",
+            "debit",
+            "credit",
+            "net banking",
+            "methods"
+        ]
+    },
+    {
+        "id": 117,
+        "category": "💳 Payment & Transaction Support",
+        "question": "Is online payment safe?",
+        "answer": "Yes, secure payment gateways are used.",
+        "keywords": [
+            "safe",
+            "online payment",
+            "secure",
+            "gateway"
+        ]
+    }
+]

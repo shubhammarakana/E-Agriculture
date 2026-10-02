@@ -1,0 +1,33 @@
+# OS & IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary & Debug Logs
+*.log
+cart_debug.log
+sms_log.txt
+*.txt
+db_result.txt
+schema_dump.txt
+cart_schema_output.txt
+db_output.html
+
+# Redundant nested backup folder
+E-Agriculture/
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Python Chatbot Git Submodule
+langchain-customer-support/.git
