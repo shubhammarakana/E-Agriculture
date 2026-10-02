@@ -47,12 +47,6 @@ A comprehensive, full-stack **Smart Agriculture & E-Commerce Web Application** d
 - **Cart & Secure Checkout**: Persistent cart management, coupon discounts, cash on delivery (COD) and online payment options.
 - **Order Tracking**: Real-time tracking from dispatch to farm delivery.
 
-### 🧠 Smart AI & Advisory Services
-- **AI Crop Disease Diagnosis**: Upload leaf/plant images or input symptoms to diagnose diseases instantly with tailored remedy recommendations.
-- **LangChain & AI Assistant**: Integrated customer support bot providing instant answers on cultivation methods, pest management, and order queries.
-- **Real-Time Weather Forecasting**: 7-day agricultural weather forecast, precipitation chance, humidity levels, and farming advisories.
-- **Mandi & Market Trends**: Live commodity pricing and market trends to help farmers sell at optimal market rates.
-- **Seasonal Planting Guide**: Interactive guide tailored for Kharif, Rabi, and Zaid crop cycles.
 
 ### 👥 Multi-Role User Portals
 - **Farmer Dashboard**: Manage crop listings, track incoming orders, monitor sales revenue, and consult AI advisory.
