@@ -1,6 +1,6 @@
 <?php
 // db_connect.php
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "root";
 $password = "";
 $dbname = "e_agriculture_db";
